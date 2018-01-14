@@ -1,6 +1,3 @@
-#Homework 1 for PHY 583
-#Han Wen
-#2/15/2016
 
 
 #usage: python hw1.py template_pdb_file the_other_pdb_file
