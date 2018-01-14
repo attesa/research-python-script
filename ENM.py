@@ -1,7 +1,5 @@
-#HW 5 for PHY 583
 #ENM on 4AKE
-#Han Wen
-#5/14/2016
+
 
 import sys
 import numpy as np
